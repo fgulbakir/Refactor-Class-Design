@@ -1,0 +1,10 @@
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\bin\Debug\netcoreapp2.2\MovieApplication.Core.deps.json
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\bin\Debug\netcoreapp2.2\MovieApplication.Core.runtimeconfig.json
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\bin\Debug\netcoreapp2.2\MovieApplication.Core.runtimeconfig.dev.json
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\bin\Debug\netcoreapp2.2\MovieApplication.Core.dll
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\bin\Debug\netcoreapp2.2\MovieApplication.Core.pdb
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\obj\Debug\netcoreapp2.2\MovieApplication.Core.csproj.CoreCompileInputs.cache
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\obj\Debug\netcoreapp2.2\MovieApplication.Core.AssemblyInfoInputs.cache
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\obj\Debug\netcoreapp2.2\MovieApplication.Core.AssemblyInfo.cs
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\obj\Debug\netcoreapp2.2\MovieApplication.Core.dll
+D:\MyProjectRepos\MovieApplication.Core\MovieApplication.Core\obj\Debug\netcoreapp2.2\MovieApplication.Core.pdb
